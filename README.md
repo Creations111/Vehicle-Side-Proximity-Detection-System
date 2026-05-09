@@ -99,6 +99,7 @@ Distance Sensor (Right) ──┘                 └──► LED   (flash freq
 - Break down problems systematically — identifying all failure points before coding saved significant debugging time.
 - The Engineering Process is iterative; going "back to the drawing board" is part of the process, not a failure.
 - Hiding wires and making hardware more secure (less tape, more 3D-printed brackets) would improve future builds.
+- Communication could have been better especailly more attempts towards it and understanding other's thoughts before taking on all the burden. Communication towards one goal would have led towards a better project. 
 
 ---
 

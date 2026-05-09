@@ -32,3 +32,18 @@ The servos rotate the sensors to sweep the full side view of the vehicle. As an 
 ---
 
 ## Components
+
+| Component | Quanity | Purpose | Cost |
+|---|---|---|---|
+| Raspberry Pi (Pico) | 1 | Microcontroller runs the logic | $6.00 |
+| Ultrasonic Distance Sensors (HC-SR04) | 2 | Measure distance to objects on each side | $6.00 | Servo Motors | 2 | Rotate sensors to sweep side fields of view | $8.00 |
+| Buzzer | 1 | Audible alert when objects are close | $1.00 | 
+| LED | 1 | Visual alert when object is close | $0.30 | 
+| Breadboard | 1 | Connects all components | $5.00 | 
+| Jumper Wires | Several | GPIO connections | N/A | 
+| Laser-cut Plywood Enclosure | 1 | Houses the system: represnets the vehicle body | $6.00 |
+| 3D Printed Sensors Mounts | 2 | Attaches distance sensors to servo motors |
+
+---
+
+## How It Works

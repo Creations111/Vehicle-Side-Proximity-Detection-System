@@ -6,8 +6,8 @@
 
 ## Demonstration Video
 
-[Watch the video](https://youtube.com/shorts/AcROKL2eSVw)
-[Watch the video](https://youtube.com/shorts/TaLlRtZOmOg)
+[Version 1 Demonstration](https://youtube.com/shorts/AcROKL2eSVw)
+[Detection System Project Demonstration](https://youtube.com/shorts/TaLlRtZOmOg)
 
 ---
 
